@@ -1,6 +1,6 @@
 # \<whitepanda\>
 
-Official web-app WhitePanda 
+web-app WhitePanda 
 
 ## Install the Polymer-CLI
 
