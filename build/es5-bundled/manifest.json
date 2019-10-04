@@ -1,0 +1,7 @@
+{
+  "name": "whitepanda",
+  "short_name": "whitepanda",
+  "description": "Official web-app WhitePanda ",
+  "start_url": "/",
+  "display": "standalone"
+}
